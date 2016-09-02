@@ -1,6 +1,6 @@
 <?php
 // tests/acceptance/UserSubscriptionTest.php
-require_once 'vendor/autoload.php';
+require_once '../vendor/autoload.php';
 class UserSubscriptionTest extends PHPUnit_Extensions_Selenium2TestCase
 {
     public function setUp()
